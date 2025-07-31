@@ -11,9 +11,9 @@ Objectives:
 - Provide actionable insights to improve guest experience
 
 Tools: Python, pandas, scikit-learn, NLTK, spaCy, Plotly, WordCloud
-Methods: Text preprocessing, TF-IDF, sentiment analysis, clustering (K-Means), n-gram analysis, and data visualization
+Methods: EDA, Text preprocessing, TF-IDF, sentiment analysis (Lexicon), topic modeling (LDA), n-gram analysis, and data visualization
 
 Expected Outputs:
 - Sentiment and theme breakdown by park
 - Alignment between text sentiment and star ratings
-- Interactive visualizations and park-specific recommendations
+- Informative visualizations and park-specific recommendations
