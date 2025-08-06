@@ -1,6 +1,6 @@
 # Sentiment-Analysis
 
-<i>"License will be added soon due to work in progress. For now, this code is for viewing only. Please do not copy or reuse without permission.”</i>
+Please credit these works when used: © 2025 NK, MIT Licensed.
 
 <h1 align="center">🏰 Disneyland Guest Review Analysis</h1>
 
