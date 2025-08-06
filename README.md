@@ -40,6 +40,6 @@ Graduate – Business Analytics, Seneca College
 
 ## 🙌 Acknowledgements
 
-- Kaggle datasets are used for model training and testing.
+- Kaggle dataset is used for this project analysis.
 
 ---
