@@ -6,7 +6,7 @@ Please credit this works when used: © 2025 NK, MIT Licensed.
 
 This project analyzes over 40,000 guest reviews from Disneyland parks in California, Paris, and Hong Kong to uncover patterns in customer satisfaction. Using natural language processing and sentiment analysis, we identify key themes behind positive and negative experiences, compare sentiment across locations, and evaluate how well star ratings align with review text.
 
-<h4>Objectives:</h4>
+## Objectives:
 
 - Discover top drivers of guest satisfaction and complaints
 - Compare review sentiment across global park locations
@@ -16,8 +16,30 @@ This project analyzes over 40,000 guest reviews from Disneyland parks in Califor
 
 <b>Methods:</b> EDA, Text preprocessing, TF-IDF, sentiment analysis (Lexicon), topic modeling (LDA), n-gram analysis, and data visualization
 
-<h4>Expected Outputs:</h4>
+## Expected Outputs:
 
 - Sentiment and theme breakdown by park
 - Alignment between text sentiment and star ratings
 - Informative visualizations and park-specific recommendations
+
+## 👤 Author
+
+**Naveen Karan Krishna**  
+Graduate – Business Analytics, Seneca College  
+[LinkedIn](https://www.linkedin.com/in/naveen-karan-krishna/) | [Email](mailto:naveenxkaran@gmail.com)
+
+---
+
+## 👤 Co-Author
+
+**Mayra Geraldine Reinoso Varon**
+
+**Thi Anh Tram Le**
+
+---
+
+## 🙌 Acknowledgements
+
+- Kaggle datasets are used for model training and testing.
+
+---
