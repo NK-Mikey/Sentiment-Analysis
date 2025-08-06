@@ -1,6 +1,6 @@
 # Sentiment-Analysis
 
-Please credit these works when used: © 2025 NK, MIT Licensed.
+Please credit this works when used: © 2025 NK, MIT Licensed.
 
 <h1 align="center">🏰 Disneyland Guest Review Analysis</h1>
 
