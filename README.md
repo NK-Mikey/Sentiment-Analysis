@@ -31,8 +31,8 @@ Graduate – Business Analytics, Seneca College
 **Mayra Geraldine Reinoso Varon**  
 Graduate – Business Analytics, Seneca College
 
-**Thi Anh Tram Le** 
-Graduate – Business Analytics, Seneca College
+**Thi Anh Tram Le**  
+Graduate – Business Analytics, Seneca College  
 
 ---
 
