@@ -28,13 +28,11 @@ This project analyzes over 40,000 guest reviews from Disneyland parks in Califor
 Graduate – Business Analytics, Seneca College  
 [LinkedIn](https://www.linkedin.com/in/naveen-karan-krishna/) | [Email](mailto:naveenxkaran@gmail.com)
 
----
-
-## 👤 Co-Author
-
 **Mayra Geraldine Reinoso Varon**
+Graduate - Business Analytics, Seneca College
 
 **Thi Anh Tram Le**
+Graduate - Business Analytics, Seneca College
 
 ---
 
